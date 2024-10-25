@@ -1,3 +1,4 @@
 {
-  "ProposalModule#ProposalVote": "0x5Dd30fC41b049426080235d0d4072b655E5Dfe92"
+  "ProposalModule#ProposalVote": "0x5Dd30fC41b049426080235d0d4072b655E5Dfe92",
+  "ProposalVoteModule#ProposalVoteFactory": "0x40B56A4e83eBbE5c0c3Cd45F733cB9EF1E9F01cE"
 }
